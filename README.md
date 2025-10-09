@@ -5,21 +5,13 @@
 [دانلود مستقیم APK (Release v1.0)](https://github.com/zahmadi98/TravelPlannerAPK/releases/download/v1.0/app-release.apk)  
 **حجم:** 12.6 MB · **SHA-256:** `96ae3ca1e265d499841d8e2e81ca1b42bcec072031f8c12b496f1cca62db5b91`
 
----## 📸 اسکرین‌شات‌ها
-
+---
+## 📸 اسکرین‌شات‌ها
 <div dir="rtl" align="right">
 
-![صفحه اصلی](assets/IMG_20251009_105104_448.jpg | width=150)  
-&nbsp;&nbsp;&nbsp;  
-![لیست سفرها](assets/IMG_20251009_105112_150.jpg | width=150)  
-&nbsp;&nbsp;&nbsp;  
-![افزودن سفر جدید](assets/IMG_20251009_105131_332.jpg | width=150)  
-&nbsp;&nbsp;&nbsp;  
-![انتخاب تاریخ و آلارم](assets/IMG_20251009_105141_953.jpg | width=150)  
-&nbsp;&nbsp;&nbsp;  
-![لیست وسایل](assets/IMG_20251009_105149_868.jpg | width=150)  
-&nbsp;&nbsp;&nbsp;  
-![نمای انتخاب سفر و تنظیم آلارم](assets/IMG_20251009_105214_374.jpg | width=150)
+| <img src="assets/IMG_20251009_105104_448.jpg" width="220" /> | <img src="assets/IMG_20251009_105112_150.jpg" width="220" /> | <img src="assets/IMG_20251009_105131_332.jpg" width="220" /> |
+|---:|:---:|:---:|
+| <img src="assets/IMG_20251009_105141_953.jpg" width="220" /> | <img src="assets/IMG_20251009_105149_868.jpg" width="220" /> | <img src="assets/IMG_20251009_105214_374.jpg" width="220" /> |
 
 </div>
 
